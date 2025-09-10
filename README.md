@@ -40,6 +40,6 @@ Hi! I'm Aakansha, an HR enhusiast passionate about building innovative solutions
  📫 Contact Me
 - **Email**: upadhyayaakansha7@gmail.com
 - **LinkedIn**: www.linkedin.com/in/aakansha-17339b228
-- **GitHub**: [Your GitHub Profile]
+- **GitHub**:  https://aakansha-portfolio-repository.github.io/Portfolio-Aakansha/
 
 *"Building tomorrow's solutions today"* ✨
