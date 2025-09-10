@@ -12,7 +12,7 @@ This folder contains all my professional certifications and achievements.
   - HR documentation and mail distribution 
   - Generated reports on engagement and attrition
   - Facilitated orientations and onboarding tasks
-- **Certificate File**: - **Certificate File:** [Download Internship Certificate](Aakansha Internship certificate.pdf)
+- **Certificate File**: - **Certificate File:**https://github.com/Aakansha-portfolio-repository/Portfolio-Aakansha/blob/main/Aakansha%20Internship%20certificate.pdf
 
 
 ## 🎯 Upcoming Certifications
