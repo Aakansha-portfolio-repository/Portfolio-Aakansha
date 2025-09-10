@@ -12,7 +12,7 @@ This folder contains all my professional certifications and achievements.
   - HR documentation and mail distribution 
   - Generated reports on engagement and attrition
   - Facilitated orientations and onboarding tasks
-- **Certificate File**: <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/178825bf-92f2-463f-b7b0-004025710bac" />
+- **Certificate File**: 
 
 
 ## 🎯 Upcoming Certifications
